@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-- I am an engineering student at Erciyes Univesity. I aim to develop myself on Back-end development.  
+- <b>I am an engineering student at Erciyes Univesity. I aim to develop myself on Back-end development.  </b>
   
 
 <br/>  
