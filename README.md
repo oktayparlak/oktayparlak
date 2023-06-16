@@ -12,8 +12,9 @@
 
 
 ### Glad to see you here!  
-- <b> I am a passionate and driven 3rd-year computer engineering student with a strong foundation in Java and JavaScript. My goal is to develop software solutions on the MERN stack.  I have experience in data structures, algorithms, and especially object-oriented programming. I have successfully developed several projects that showcase my ability to translate concepts into practical solutions.
--  From creating a rent-a-car website using the MERN stack to building end-to-end web apps using HTML, CSS, ExprssJs, and MongoDB. With a keen eye for detail, I strive to create clean, readable, and efficient code while focusing on user experience. I am currently seeking an internship opportunity where I can apply my technical skills, contribute to real-world projects, and further enhance my knowledge in the field of computer engineering. </b>
+-    I am a passionate and driven 3rd-year computer engineering student with a strong foundation in Java and JavaScript. My goal is to develop software solutions on the MERN stack.  I have experience in data structures, algorithms, and especially object-oriented programming.
+
+-    I have successfully developed several projects that showcase my ability to translate concepts into practical solutions. From creating a rent-a-car website using the MERN stack to building end-to-end web apps using HTML, CSS, ExprssJs, and MongoDB. With a keen eye for detail, I strive to create clean, readable, and efficient code while focusing on user experience. I am currently seeking an internship opportunity where I can apply my technical skills, contribute to real-world projects, and further enhance my knowledge in the field of computer engineering. 
   
 
 <br/>  
