@@ -12,8 +12,7 @@
 
 
 ### Glad to see you here!  
--    Hello, I am a senior computer engineering student, I have a solid grasp of fundamental concepts like OOP and data structures, which I have effectively applied by working with modern technologies such as Node.js and Express.js. I possess a proficient level of English and have been continuously enhancing my skills with Node.js and Express.js for the past two years. In addition to my expertise in these technologies, I have a strong command of Java and a basic understanding of Spring Boot. In the future, I aspire to gain expertise in microservices architecture and collaborate on projects using AWS. I am currently actively seeking internship opportunities and looking forward to gaining hands-on experience in this field.
-  
+-    Hello, I am a software engineer, I have a solid grasp of fundamental concepts like OOP and data structures, which I have effectively applied by working with modern technologies such as Node.js and Express.js. I possess a proficient level of English and have been continuously enhancing my skills with Node.js and Express.js for the past two years. In addition to my expertise in these technologies, I have a strong command of Java and a basic understanding of Spring Boot. In the future, I aspire to gain expertise in microservices architecture and collaborate on projects using AWS.
 
 <br/>  
 
