@@ -12,7 +12,9 @@
 
 
 ### Glad to see you here!  
--    Hello, I am a software engineer, I have a solid grasp of fundamental concepts like OOP and data structures, which I have effectively applied by working with modern technologies such as Node.js and Express.js. I possess a proficient level of English and have been continuously enhancing my skills with Node.js and Express.js for the past two years. In addition to my expertise in these technologies, I have a strong command of Java and a basic understanding of Spring Boot. In the future, I aspire to gain expertise in microservices architecture and collaborate on projects using AWS.
+-    I specialize in developing high-performance and secure backend systems using Java Spring Boot, PL/SQL, and Node.js with microservice architectures.
+-    I have experience with Redis, RabbitMQ, Docker, and AWS to build distributed, event-driven environments that ensure scalability and reliability.
+-    I focus on writing maintainable code, optimizing performance, and implementing DevOps practices that enhance deployment efficiency and system resilience.
 
 <br/>  
 
