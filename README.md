@@ -4,12 +4,6 @@
   <b>Backend-focused Software Engineer</b> · Java · Spring Boot · Node.js · Distributed Systems
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/oktayparlak" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
 ---
 
 ### About
