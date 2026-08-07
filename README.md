@@ -1,77 +1,88 @@
-## Hey 👋, I'm Oktay Parlak!  
-  
+<h1 align="center">Hey 👋, I'm Oktay Parlak</h1>
 
-<a href="https://twitter.com/OktayParlak_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/oktayparlak" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+<p align="center">
+  <b>Backend-focused Software Engineer</b> · Java · Spring Boot · Node.js · Distributed Systems
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/oktayparlak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
+---
 
-### Glad to see you here!  
--    I specialize in developing high-performance and secure backend systems using Java Spring Boot, PL/SQL, and Node.js with microservice architectures.
--    I have experience with Redis, RabbitMQ, Docker, and AWS to build distributed, event-driven environments that ensure scalability and reliability.
--    I focus on writing maintainable code, optimizing performance, and implementing DevOps practices that enhance deployment efficiency and system resilience.
+### About
 
-<br/>  
+I build high-performance, secure backend systems — and I'm most interested in the parts of engineering that only show up under load: throughput, failure modes, and keeping a system predictable when traffic isn't.
 
+- ⚙️ I write **Java Spring Boot** and **Node.js** services, usually as microservices, usually talking to each other over a message broker.
+- 🔄 Event-driven architectures with **RabbitMQ**, caching strategies with **Redis**, containerized deployments on **Docker** and **AWS**.
+- 🗄️ At home in both relational and non-relational data — **PostgreSQL**, **OracleDB / PL/SQL**, **MongoDB**, **Elasticsearch**.
+- 🧩 Comfortable across the stack when a project needs it — **Next.js**, **React**, **Flutter** — but the backend is where I do my best work.
+- 🧱 I care about maintainable code, sensible boundaries between services, and deployment pipelines that don't need babysitting.
 
+---
 
-<br/>  
+### Tech Stack
 
+**Languages**
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" /></a> 
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
-</div>  
-  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>  
+**Backend & Frameworks**
 
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-<br/>    
+**Frontend**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+**Data**
 
-<img src="https://github-readme-stats.vercel.app/api?username=oktayparlak&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-</td><td valign="top" width="50%">
+**Infrastructure & Tooling**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayparlak&hide_border=true&layout=compact" align="left" style="width: 95%" />
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</td></tr></table>  
+---
 
-<br/>  
+### GitHub Stats
 
-  
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=oktayparlak&show_icons=true&count_private=true&hide_border=true" style="width: 100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayparlak&hide_border=true&layout=compact" style="width: 95%" />
+    </td>
+  </tr>
+</table>
 
-<br/>  
+<br/>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=oktayparlak&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
+![Profile views](https://komarev.com/ghpvc/?username=oktayparlak&style=flat-square)
